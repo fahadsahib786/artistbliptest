@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//fahadsahib786.github.io/artistbliptest/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/</loc>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/boats-in-the-sunset/</loc>
+		<lastmod>2007-05-31T06:37:22-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/boats.gif</image:loc>
+			<image:caption><![CDATA[Boats in the Sunset]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/teahouse/</loc>
+		<lastmod>2007-05-31T06:40:18-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/thouse.gif</image:loc>
+			<image:caption><![CDATA[Teahouse]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/nicks-daughters/</loc>
+		<lastmod>2007-05-31T06:41:58-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/nick.gif</image:loc>
+			<image:caption><![CDATA[Nickâ€™s Daughters]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/dad/</loc>
+		<lastmod>2007-05-31T06:42:08-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/dad.gif</image:loc>
+			<image:caption><![CDATA[Dad]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/country-scene/</loc>
+		<lastmod>2007-05-31T06:43:15-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/country.gif</image:loc>
+			<image:caption><![CDATA[Country Scene]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/geese-by-the-water/</loc>
+		<lastmod>2007-05-31T06:44:53-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/water1.jpg</image:loc>
+			<image:caption><![CDATA[Geese by the Water]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/soundview-avenue-in-the-fall/</loc>
+		<lastmod>2007-05-31T06:46:49-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/fall.gif</image:loc>
+			<image:caption><![CDATA[Soundview Avenue in the Fall]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/car-ride/</loc>
+		<lastmod>2007-05-31T06:46:56-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/carride.gif</image:loc>
+			<image:caption><![CDATA[Car Ride]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/fading-sun/</loc>
+		<lastmod>2007-05-31T06:55:13-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/sun.jpg</image:loc>
+			<image:caption><![CDATA[sun.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/mystic-connecticut/</loc>
+		<lastmod>2007-05-31T06:55:19-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/mystic1.jpg</image:loc>
+			<image:caption><![CDATA[Mystic, Connecticut]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/mountain-experiment/</loc>
+		<lastmod>2007-05-31T06:55:22-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/mountain2.gif</image:loc>
+			<image:caption><![CDATA[Mountain Experiment]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/red-barn-in-windham/</loc>
+		<lastmod>2007-05-31T06:55:26-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/barn.gif</image:loc>
+			<image:caption><![CDATA[Red Barn in Windham]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/ginny/</loc>
+		<lastmod>2007-05-31T06:56:37-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/ginny1.jpg</image:loc>
+			<image:caption><![CDATA[Ginny]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/painting-for-dad/</loc>
+		<lastmod>2007-06-07T21:19:34-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/dadpaintingsmall3.jpg</image:loc>
+			<image:caption><![CDATA[Painting for Dad]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/mothers-morning/</loc>
+		<lastmod>2007-06-07T21:40:22-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/mothers-morning.jpg</image:loc>
+			<image:caption><![CDATA[Motherâ€™s Morning]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/dylan-by-the-window/</loc>
+		<lastmod>2007-06-07T21:46:58-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/dylan-by-the-window.jpg</image:loc>
+			<image:caption><![CDATA[Dylan by the Window]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/pleasantville/</loc>
+		<lastmod>2007-06-07T21:55:38-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/pleasantville-small.jpg</image:loc>
+			<image:caption><![CDATA[Pleasantville]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/painting-for-bryan/</loc>
+		<lastmod>2007-06-07T22:04:58-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/bryanpaintingsmaller.jpg</image:loc>
+			<image:caption><![CDATA[Painting for Bryan]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/rissani-market/</loc>
+		<lastmod>2007-06-07T22:15:53-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/rissani-market.jpg</image:loc>
+			<image:caption><![CDATA[Rissani Market]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/wheel-by-the-door/</loc>
+		<lastmod>2007-06-07T22:30:22-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/05/wheel.jpg</image:loc>
+			<image:caption><![CDATA[Wheel by the Door]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/friends/</loc>
+		<lastmod>2007-06-12T22:29:59-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/friends.JPG</image:loc>
+			<image:caption><![CDATA[Friends]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/colorado/</loc>
+		<lastmod>2007-06-12T22:30:56-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/colorado.JPG</image:loc>
+			<image:caption><![CDATA[Colorado]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/reflections/</loc>
+		<lastmod>2007-06-12T22:37:20-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/reflections1.JPG</image:loc>
+			<image:caption><![CDATA[Reflections]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/dreamscape/</loc>
+		<lastmod>2007-06-12T22:41:43-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/dreamscape.JPG</image:loc>
+			<image:caption><![CDATA[Dreamscape]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/reflection-in-a-pond/</loc>
+		<lastmod>2011-10-01T10:41:28-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2011/10/tree-painting-small.JPG</image:loc>
+			<image:caption><![CDATA[tree-painting-small.JPG]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/missouri-sunset/</loc>
+		<lastmod>2016-10-28T17:39:51-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2011/10/sunsetmo3.jpg</image:loc>
+			<image:caption><![CDATA[Missouri Sunset]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/portrait-of-bb-king/</loc>
+		<lastmod>2016-10-28T17:40:35-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2011/10/bb-painting.JPG</image:loc>
+			<image:caption><![CDATA[BB King]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/dylans-present/</loc>
+		<lastmod>2016-10-28T17:44:06-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/dyl-paint.jpg</image:loc>
+			<image:caption><![CDATA[Dylan's Present]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/the-eichmann-house/</loc>
+		<lastmod>2016-10-28T17:44:51-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/eichmann-house.jpg</image:loc>
+			<image:caption><![CDATA[The Eichmann House]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/megan-by-the-water/</loc>
+		<lastmod>2016-10-28T17:45:53-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/megan.JPG</image:loc>
+			<image:caption><![CDATA[Megan by the Water]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/isa-and-george/</loc>
+		<lastmod>2016-10-28T17:45:56-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/isa-and-george.JPG</image:loc>
+			<image:caption><![CDATA[Isa and George]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/the-crossing/</loc>
+		<lastmod>2016-10-28T17:46:55-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/the-crossing.jpg</image:loc>
+			<image:caption><![CDATA[The Crossing]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/reflections-of-new-rochelle/</loc>
+		<lastmod>2016-10-28T17:47:00-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/new-rochelle.JPG</image:loc>
+			<image:caption><![CDATA[Reflections of New Rochelle]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://fahadsahib786.github.io/artistbliptest/waterlilies/</loc>
+		<lastmod>2016-10-28T17:47:03-05:00</lastmod>
+		<image:image>
+			<image:loc>http://fahadsahib786.github.io/artistbliptest/wp-content/uploads/2007/06/waterlilies.jpg</image:loc>
+			<image:caption><![CDATA[Waterlilies]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
+<!-- XML Sitemap generated by Yoast SEO -->
