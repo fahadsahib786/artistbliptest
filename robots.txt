@@ -1,0 +1,5 @@
+Sitemap: https://fahadsahib786.github.io/artistbliptest/sitemap.xml
+Sitemap: https://fahadsahib786.github.io/artistbliptest/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
